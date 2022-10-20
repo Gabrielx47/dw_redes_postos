@@ -1,0 +1,8 @@
+-- Scripts para carregar dados da área de staging
+-- para o modelo dimensional
+-- Funções prontas:
+--  sp_dim_funcionario (Falta testar)
+--  sp_dim_loja (Falta testar)
+--  sp_dim_tipo_pagamento (Falta testar)
+--  SP_dim_produto (Falta testar)
+--  
