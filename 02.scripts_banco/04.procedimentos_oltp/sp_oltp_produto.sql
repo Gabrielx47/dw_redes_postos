@@ -11,3 +11,6 @@ end
 
 -- Testes
    -- Falta fazer
+exec sp_oltp_produto '20221101'
+
+select * from TB_AUX_PRODUTO

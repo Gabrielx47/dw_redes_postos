@@ -10,3 +10,6 @@ end
 
 -- Testes
    -- Falta fazer
+exec sp_oltp_tipo_pagamento '20221101'
+
+select * from TB_AUX_TIPO_PAGAMENTO
