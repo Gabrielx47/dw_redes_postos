@@ -12,3 +12,5 @@ end
 
 -- Testes
    -- Falta fazer
+
+select * from TB_VENDA
